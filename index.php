@@ -10,6 +10,7 @@
 </head>
 <body>
 <script src="https://js.stripe.com/v3/"></script>
+<script src="./js/charge.js"
 
 
 <form action="charge" method="post" id="payment-form">
